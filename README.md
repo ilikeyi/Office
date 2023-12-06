@@ -1,4 +1,4 @@
-Available languages
+可选模板
 -
  * Excel VBA 版，商品入库、取货、会员管理、存入、支取，新增历史记录，即时统计等功能
 <br>
