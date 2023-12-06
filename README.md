@@ -1,94 +1,70 @@
 Available languages
 -
  * Excel VBA 版，商品入库、取货、会员管理、存入、支取，新增历史记录，即时统计等功能
-
+<br>
 
 <details>
   <summary>Excel VBA 版，商品入库、取货、会员管理、存入、支取，新增历史记录，即时统计等功能</summary>
   <h1>Excel VBA 版，商品入库、取货、会员管理、存入、支取，新增历史记录，即时统计等功能</h1>
 
 操作演示
-[https://github.com/ilikeyi/Multilingual](哔哩哔哩) | [https://github.com/ilikeyi/Multilingual](https://github.com/ilikeyi/Multilingual) | [https://github.com/ilikeyi/Multilingual](https://github.com/ilikeyi/Multilingual)
-[https://github.com/ilikeyi/Multilingual](https://github.com/ilikeyi/Multilingual)
-[https://github.com/ilikeyi/Multilingual](https://github.com/ilikeyi/Multilingual) | 
+
+[哔哩哔哩](https://www.bilibili.com/video/BV1Mc411i7GF) | [西瓜视频](https://www.ixigua.com/7308814306693513728) | [腾讯视频](https://v.qq.com/x/page/u3531u10ns8.html) | [Youtube](https://youtu.be/tRwT80LVngY)
 
 主要功能：
 ```
-1、支持在线升级；
-2、修改脚本按 R 可热刷新；
-3、根据描述文件来实现部署规则；
-4、获取已安装的语言包，自动添加；
-5、添加过程中，自动判断 S、SN 版，按规则添加；
-6、处理机制：
-   https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/languages-overview
+    商品
+      · 支持 40 项商品管理
+      · 设置可用商品后，隐藏会员详细信息、历史记录里未使用的商品
+      · 有同等价位时，你难道不会当他为同一商品吗？
+
+    入库取货
+      · 入库：新增后，在设置界面可查看统计
+      · 取货：盘点时冲正及快速取货，在设置界面可查看统计
+     A 软件销售 666 件，B 软件销售 333，你不会添加二条取货 666、333 吗？这不就统计其它平台的数据了？
+
+    会员
+     · 可添加：姓氏、名字、性别、身份证号码、年龄、电话、Email、家庭住址、备注等和删除
+     · 可选隐藏不常用的：身份证号码、年龄、Email、家庭住址等    
+     · 设置新增会员添加界面：校验必填项
+     · Ctrl+Shift + A：历史记录 - 新增，自动填寄存
+     · Ctrl+Shift + Q：历史记录 - 新增，自动填支取
+
+    员工
+     · 设置员工姓名、联系电话
+     · 设置首选员工，设置后，自动填充到所有员工列表  
+
+    历史记录
+     · 选择了会员后：点新增存入或支取后自动新增到历史记录
+     · 选择了会员后：快捷方式，快速新增时自动填存入和寄存
+
+    打开表
+     · 重置新增商品入库取货、新增会员、错误信息等内容
+
+    选择表
+     · 自动添加热键、清除热键、清空错误列表等信息
+     · 自动填充首选员工
+
+    安全
+     · 新增“商品入库取货”、“新增会员”后，自动插入公式和数据校验，初始化功能。
 ```
 
-## 如何自定义创建升级包
+先决条件
+```
+    · 可选使用 Office 365、Office 2024、Office 2021、Office 2009 或支持自动插入新行时继承上行公式的办公软件
+    · 必须支持 VBA 宏版本的办公软件
+    · 协作：建议您使用 OneDrive，将 Latest.xlsm 存储到网盘里，其它终端设备可直接同步操作
+      使用 iPad、IOS、Android 等终端，安装 Microsoft Excel 办公软件即可享受协作
+```
 
-  a、继续使用当前版本请跳过修改，例如当前版本号：1.0.0.0，创建为新的版本号：2.0.0.0，
-     打开 \Multilingual\Modules\Engine.psd1，修改“ModuleVersion”为：2.0.0.0
-
-  b、将 Modules\1.0.0.0 目录修改为 2.0.0.0；
-     注意：1.0.0.0 请根据每版本号进行更改。
-
-  c、重新指定升级服务器，修改 URL 连接：
-     打开：Modules\1.0.0.0\Functions\Base\Update\Engine.Update.psm1，更改：
-     c.1  修改最低要求版本号：$Global:ChkLocalver，如果支持滑行升级可从 1.0.0.0 开始，如果脚本最低要求 2.0.0.0 开始，请更改为 2.0.0.0；
-     c.2  重新指定更新服务器：$PreServerList。
-
-  d、运行：
-     .\_Create.Upgrade.Package.ps1
-
-
-部署引擎分为多部分
--
-可通过添加更多的部署标记来进行干预部署过程，激活首次部署：
-.\Engine.ps1 -Force
-
-
-* 共享部署标记
-
-| 路径             | 部署标记               | 描述 |
-|------------------|-----------------------|---|
-| \Deploy\Allow    | Is_Mark_Sync          | 允许全盘搜索并同步部署标记 |
-
-允许全盘搜索并同步部署标记时，你可以在其它任意磁盘存放部署标记，可允许部署和不允许部署，例如：
-   1、优先判断部署标记为：
-      D:\Yi\Deploy\Not Allowed\Auto_Update
-
-   2、继续判断：D:\Yi\Deploy\Allow\Auto_Update
-
-   3、继续判断部署引擎脚本存放目录下的 Deploy 目录。
-
-不允许全盘搜索并同步部署标记时，仅识别部署引擎脚本存放目录下的 Deploy 目录。
-
-下载模板：Engine.Deploy.Rule.ISO
-
-
-* 第一部分：先决部署
-
-| 可分配路径                     | 部署标记               | 描述 |
-|-------------------------------|-----------------------|---|
-| \Deploy\{allow, Not Allowed}  | Auto_Update           | 允许自动更新 |
-| \Deploy\{allow, Not Allowed}  | Use_UTF8              | Beta 版：使用 Unicode UTF-8 提供全球语言支持 |
-| \Deploy\Regional              | 区域标记               | 更改系统区域设置 |
-| \Deploy\{allow, Not Allowed}  | Disable_Network_Location_Wizard | 网络位置向导 |
-| \Deploy\{allow, Not Allowed}  | Disable_Cleanup_Appx_Tasks | Appx 清理维护任务 |
-| \Deploy\{allow, Not Allowed}  | Disable_Cleanup_On_Demand_Language | 阻止清理未使用的按需功能语言包 |
-| \Deploy\{allow, Not Allowed}  | Disable_Cleanup_Unsed_Language | 阻止清理未使用的语言包 |
-| \Deploy\{allow, Not Allowed}  | Prerequisites_Reboot  | 重新启动计算机<br>完成先决部署后重新启动计算机，可解决需重启才生效的问题。|
-
-
-* 第二部分：完成首次部署
-
-| 可分配路径                     | 部署标记               | 描述 |
-|-------------------------------|-----------------------|---|
-| \Deploy\{allow, Not Allowed}  | Popup_Engine          | 允许首次弹出部署引擎主界面 |
-| \Deploy\{allow, Not Allowed}  | Allow_First_Pre_Experience | 允许首次预体验，按计划 |
-| \Deploy\{allow, Not Allowed}  | Reset_Execution_Policy | 恢复 PowerShell 执行策略：受限 |
-| \Deploy\{allow, Not Allowed}  | Clear_Solutions       | 删除整个解决方案 |
-| \Deploy\{allow, Not Allowed}  | Clear_Engine          | 删除部署引擎，保留其它 |
-| \Deploy\{allow, Not Allowed}  | First_Experience_Reboot | 重新启动计算机<br>部署完成后没有重要的事件，建议您取消。 |
+使用须知
+```
+    · 前往 https://github.com/ilikeyi/Office 或 [https://fengyi.tel/go/storage](https://fengyi.tel/go/storage) 下载后，
+    1、点击文件右键，选择属性，解除文件锁定
+    2、启用编辑
+    3、启用内容
+    4、启用 VBA 宏功能
+```
 </details>
 
 
