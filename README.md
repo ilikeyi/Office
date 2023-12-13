@@ -13,7 +13,7 @@
 <br><br>
 
 <h4><pre>先决条件</pre></h4>
-<ul>可选使用 Office 365、Office 2024、Office 2021、Office 2019、Office 2016、Office 2013、Office 2010 或支持插入新行时自动继承上行公式的办公软件</ul>
+<ul>可选使用 Office 365、Office 2024、Office 2021、Office 2019、Office 2016 或支持插入新行时自动继承上行公式的办公软件</ul>
 <ul>启用 VBA 后：不受限制的使用所有功能</ul>
 <ul>未启用 VBA 或不包含 VBA 时：1. 部分功能受限；2. 工作表受限：新增入库取货、新增会员</ul>
 <ul>协作：建议您使用 OneDrive，将 Latest.xlsm 存储到网盘里，其它终端设备可直接同步操作</ul>
@@ -85,9 +85,17 @@
 <ul>建议你定期下载最新版，以保持到最新</ul>
 <ul>前往 https://github.com/ilikeyi/Office 或 https://fengyi.tel/go/storage 下载后，</ul>
 <ul>1. 点击文件右键，选择属性，解除文件锁定</ul>
+![Picture1](https://github.com/ilikeyi/Office/assets/73377514/124d0e33-eaf4-4bc4-bebb-b14db6358ec8)
+
 <ul>2. 启用编辑</ul>
+![Picture2](https://github.com/ilikeyi/Office/assets/73377514/260c1bf1-eb31-437b-b384-7e642bb2390b)
+
 <ul>3. 启用内容</ul>
+![Picture3](https://github.com/ilikeyi/Office/assets/73377514/b768d1bf-b8de-4b6f-8cfc-7ba6bb2fc645)
+
 <ul>4. 启用 VBA 宏功能</ul>
+![Picture4](https://github.com/ilikeyi/Office/assets/73377514/1a73f248-800a-445f-b836-b8cadda15d67)
+
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 </details>
