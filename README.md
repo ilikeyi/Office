@@ -85,15 +85,19 @@
 <ul>建议你定期下载最新版，以保持到最新</ul>
 <ul>前往 https://github.com/ilikeyi/Office 或 https://fengyi.tel/go/storage 下载后，</ul>
 <ul>1. 点击文件右键，选择属性，解除文件锁定</ul>
+
 ![Picture1](https://github.com/ilikeyi/Office/assets/73377514/124d0e33-eaf4-4bc4-bebb-b14db6358ec8)
 
 <ul>2. 启用编辑</ul>
+
 ![Picture2](https://github.com/ilikeyi/Office/assets/73377514/260c1bf1-eb31-437b-b384-7e642bb2390b)
 
 <ul>3. 启用内容</ul>
+
 ![Picture3](https://github.com/ilikeyi/Office/assets/73377514/b768d1bf-b8de-4b6f-8cfc-7ba6bb2fc645)
 
 <ul>4. 启用 VBA 宏功能</ul>
+
 ![Picture4](https://github.com/ilikeyi/Office/assets/73377514/1a73f248-800a-445f-b836-b8cadda15d67)
 
 
