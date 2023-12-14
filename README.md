@@ -14,8 +14,6 @@
 
 <h4><pre>先决条件</pre></h4>
 <ul>可选使用 Office 365、Office 2024、Office 2021、Office 2019、Office 2016 或支持插入新行时自动继承上行公式的办公软件</ul>
-<ul>启用 VBA 后：不受限制的使用所有功能</ul>
-<ul>未启用 VBA 或不包含 VBA 时：1. 部分功能受限；2. 工作表受限：新增入库取货、新增会员</ul>
 <ul>协作：建议您使用 OneDrive，将 Latest.xlsm 存储到网盘里，其它终端设备可直接同步操作</ul>
 <ul>使用 iPad、IOS、Android 等终端，安装 Microsoft Excel 办公软件即可享受协作</ul>
 <br>
@@ -41,8 +39,9 @@
 <ul>设置员工姓名、联系电话，设置首选员工</ul>
 <br>
 
+<h4><pre>未启用 VBA 或不包含 VBA 时，VBA 功能将不可用</h4></pre>
 
-<h4><pre>启用 VBA 后以下功能将可用</pre></h4>
+<h4><pre>打开 VBA 后，以下功能将启用</pre></h4>
 
 <h4><pre>设置</pre></h4>
 <ul>第四步：添加会员时必填、添加后允许新增存入（通过了新增会员时验证项后，将插入一条新的历史记录存入）</ul>
