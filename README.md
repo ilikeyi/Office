@@ -99,14 +99,15 @@
 <ul>2. 启用编辑</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Picture2](https://github.com/ilikeyi/Office/assets/73377514/260c1bf1-eb31-437b-b384-7e642bb2390b)
+&nbsp;&nbsp;&nbsp;&nbsp;![Edit](https://github.com/ilikeyi/Office/assets/73377514/64209590-34bb-4cf8-9901-ec6e7c12f857)
+
 </ul>
 <br>
 
 <ul>3. 启用内容</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Picture3](https://github.com/ilikeyi/Office/assets/73377514/b768d1bf-b8de-4b6f-8cfc-7ba6bb2fc645)
+&nbsp;&nbsp;&nbsp;&nbsp;![content](https://github.com/ilikeyi/Office/assets/73377514/29dffd2e-eb4b-494b-849d-75a30bf13e9b)
 </ul>
 <br>
 
