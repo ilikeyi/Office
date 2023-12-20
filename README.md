@@ -99,7 +99,7 @@
 <ul>2. 启用编辑</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Edit](https://github.com/ilikeyi/Office/assets/73377514/64209590-34bb-4cf8-9901-ec6e7c12f857)
+&nbsp;&nbsp;&nbsp;&nbsp;![Edit](https://github.com/ilikeyi/Office/assets/73377514/9e26850d-e988-4542-b59e-eaa3b743cc48)
 
 </ul>
 <br>
@@ -107,7 +107,8 @@
 <ul>3. 启用内容</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![content](https://github.com/ilikeyi/Office/assets/73377514/29dffd2e-eb4b-494b-849d-75a30bf13e9b)
+&nbsp;&nbsp;&nbsp;&nbsp;![Content](https://github.com/ilikeyi/Office/assets/73377514/41618db7-1767-415f-b55b-6947fe40f366)
+
 </ul>
 <br>
 
