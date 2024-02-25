@@ -1,8 +1,126 @@
 <a name="readme-top"></a>
 可选模板
 -
+ * Excel | Product storage and pickup | Member management | Deposit | Withdraw | Add historical records | Real-time statistics and other functions
  * Excel | 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能
 <br>
+
+<details>
+  <summary>Excel | 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能</summary>
+
+<h4><pre>首次使用和功能演示</pre></h4>
+
+[哔哩哔哩](https://www.bilibili.com/video/BV1Mc411i7GF) | [西瓜视频](https://www.ixigua.com/7308814306693513728) | [腾讯视频](https://v.qq.com/x/page/u3531u10ns8.html) | [Youtube](https://youtu.be/tRwT80LVngY)
+<br><br>
+
+<h4><pre>先决条件</pre></h4>
+<ul>可选使用 Office 365、Office 2024、Office 2021、Office 2019、Office 2016 或支持插入新行时自动继承上行公式的办公软件</ul>
+<ul>协作：建议您使用 OneDrive，将 Latest.xlsm 存储到网盘里，其它终端设备可直接同步操作</ul>
+<ul>使用 iPad、IOS、Android 等终端，安装 Microsoft Excel 办公软件即可享受协作</ul>
+<ul>未启用 VBA 或不包含 VBA 时，VBA 功能将不可用</ul>
+<br>
+
+<h4><pre>主要功能：</pre></h4>
+<h4><pre>商品</pre></h4>
+<ul>支持 40 项商品管理</ul>
+<ul>设置可用商品后，隐藏会员详细信息、历史记录里未使用的商品</ul>
+<ul>有同等价位时，你难道不会当他为同一商品吗？</ul>
+<br>
+
+<h4><pre>入库 | 取货</pre></h4>
+<ul>入库：新增后，在设置界面可查看统计</ul>
+<ul>取货：盘点时冲正及快速取货，在设置界面可查看统计</ul>
+<ul>  A 软件销售 666 件，B 软件销售 333，你不会添加二条取货 666、333 吗？这不就统计其它平台的数据了？</ul>
+<br>
+
+<h4><pre>会员</pre></h4>
+<ul>可添加：姓氏、名字、性别、身份证号码、年龄、电话、Email、家庭住址、备注等，可隐藏不常用的项</ul>
+<br>
+
+<h4><pre>Staff</pre></h4>
+<ul>Set employee names, contact numbers, and preferred employees</ul>
+<br>
+
+<h4><pre>After opening VBA, the following features are enabled</pre></h4>
+
+<h4><pre>Set up</pre></h4>
+<ul>Step 4: Required when adding a member, new deposits are allowed after addition (after passing the verification item when adding a new member, a new historical record will be inserted for deposit)</ul>
+<ul>Step 7: Must fill in the unit</ul>
+<br>
+
+<h4><pre>Check</pre></h4>
+<ul>Phone number: It only prompts when the 11-digit number is met or not, and does not force you to enter it correctly.</ul>
+<ul>ID number: After entering the ID number, check whether it is correct.</ul>
+<ul>Email: Verify the correct email address</ul>
+<br>
+
+<h4><pre>History record</pre></h4>
+<ul>In the member details, after selecting the member, you can click "Deposit" or "Withdraw" to quickly add an item to the history.</ul>
+<ul>Tip: Whether you click "New Deposit" or "New Withdrawal", select the type change in the history.</ul>
+<br>
+
+<h4><pre>Worksheet</pre></h4>
+<ul>New warehouse pickup and new members will be available</ul>
+<br>
+
+<h4><pre>Open table</pre></h4>
+<ul>Reset the worksheet to add new products, pick up goods from the warehouse, add error messages in new members, instant verification, etc.</ul>
+<br>
+
+<h4><pre>Select table</pre></h4>
+<ul>Automatically add "hotkeys, clear hotkeys", reset: errors, instant verification, etc.</ul>
+<br>
+
+<h4><pre>Filling</pre></h4>
+<ul>After setting the preferred employee, it will automatically populate the list of all employees</ul>
+<br>
+
+<h4><pre>Safety</pre></h4>
+<ul>After adding "product pickup" and "new member", formulas and data verification will be automatically inserted and the function will be initialized.</ul>
+<br>
+
+<h4><pre>Shortcut key</pre></h4>
+<ul>Ctrl+Shift + M: After obtaining the current date and time, insert or update to the "time" row (valid for warehouse pickup, member details, and history records)</ul>
+<ul>Ctrl+Shift + A: History - New, automatically filled in (only valid in member details)</ul>
+<ul>Ctrl+Shift + Q: History - new, automatically filled in and withdrawn (only valid in member details)</ul>
+<br>
+
+<h4><pre>Terms and Conditions</pre></h4>
+<ul>All passwords are empty</ul>
+<ul>It is recommended that you regularly download the latest version to stay up to date.</ul>
+<ul>Go to https://github.com/ilikeyi/Office or open https://fengyi.tel/go/storage After downloading, </ul>
+<br>
+<ul>1. Right-click the file, select Properties, and unlock the file.</ul>
+<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Picture1](https://github.com/ilikeyi/Office/assets/73377514/124d0e33-eaf4-4bc4-bebb-b14db6358ec8)
+</ul>
+<br>
+
+<ul>2. Enable editing</ul>
+<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Edit](https://github.com/ilikeyi/Office/assets/73377514/9e26850d-e988-4542-b59e-eaa3b743cc48)
+
+</ul>
+<br>
+
+<ul>3. Enable content</ul>
+<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Content](https://github.com/ilikeyi/Office/assets/73377514/41618db7-1767-415f-b55b-6947fe40f366)
+
+</ul>
+<br>
+
+<ul>4. Enable VBA macro functions</ul>
+<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;![Picture4](https://github.com/ilikeyi/Office/assets/73377514/1a73f248-800a-445f-b836-b8cadda15d67)
+</ul>
+
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+</details>
 
 <details>
   <summary>Excel | 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能</summary>
