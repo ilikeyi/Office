@@ -6,35 +6,35 @@
 <br>
 
 <details>
-  <summary>Excel | 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能</summary>
+  <summary>Excel | Product storage and pickup | Member management | Deposit | Withdraw | Add historical records | Real-time statistics and other functions</summary>
 
-<h4><pre>首次使用和功能演示</pre></h4>
+<h4><pre>First use and functional demonstration</pre></h4>
 
-[哔哩哔哩](https://www.bilibili.com/video/BV1Mc411i7GF) | [西瓜视频](https://www.ixigua.com/7308814306693513728) | [腾讯视频](https://v.qq.com/x/page/u3531u10ns8.html) | [Youtube](https://youtu.be/tRwT80LVngY)
+[Bilibili](https://www.bilibili.com/video/BV1Mc411i7GF) | [Watermelon video](https://www.ixigua.com/7308814306693513728) | [Tencent Video](https://v.qq.com/x/page/u3531u10ns8.html) | [Youtube](https://youtu.be/tRwT80LVngY)
 <br><br>
 
-<h4><pre>先决条件</pre></h4>
-<ul>可选使用 Office 365、Office 2024、Office 2021、Office 2019、Office 2016 或支持插入新行时自动继承上行公式的办公软件</ul>
-<ul>协作：建议您使用 OneDrive，将 Latest.xlsm 存储到网盘里，其它终端设备可直接同步操作</ul>
-<ul>使用 iPad、IOS、Android 等终端，安装 Microsoft Excel 办公软件即可享受协作</ul>
-<ul>未启用 VBA 或不包含 VBA 时，VBA 功能将不可用</ul>
+<h4><pre>Prerequisites</pre></h4>
+<ul>You can optionally use Office 365, Office 2024, Office 2021, Office 2019, Office 2016 or office software that supports automatically inheriting the upstream formula when inserting a new row.</ul>
+<ul>Collaboration: It is recommended that you use OneDrive to store Latest.xlsm in the network disk, and other terminal devices can directly synchronize operations.</ul>
+<ul>Use iPad, IOS, Android and other terminals to enjoy collaboration by installing Microsoft Excel office software</ul>
+<ul>VBA functionality will not be available when VBA is not enabled or included</ul>
 <br>
 
-<h4><pre>主要功能：</pre></h4>
-<h4><pre>商品</pre></h4>
-<ul>支持 40 项商品管理</ul>
-<ul>设置可用商品后，隐藏会员详细信息、历史记录里未使用的商品</ul>
-<ul>有同等价位时，你难道不会当他为同一商品吗？</ul>
+<h4><pre>The main function</pre></h4>
+<h4><pre>Merchandise</pre></h4>
+<ul>Supports 40 product management</ul>
+<ul>After setting available products, hide member details and unused products in history</ul>
+<ul>If there are products of the same price, wouldn't you regard them as the same product?</ul>
 <br>
 
-<h4><pre>入库 | 取货</pre></h4>
-<ul>入库：新增后，在设置界面可查看统计</ul>
-<ul>取货：盘点时冲正及快速取货，在设置界面可查看统计</ul>
-<ul>  A 软件销售 666 件，B 软件销售 333，你不会添加二条取货 666、333 吗？这不就统计其它平台的数据了？</ul>
+<h4><pre>Warehouse | Pick up</pre></h4>
+<ul>Into the database: After adding, statistics can be viewed in the settings interface</ul>
+<ul>Picking up goods: correcting and picking up goods quickly during inventory, statistics can be viewed in the setting interface</ul>
+<ul>  Software A sells 666 pieces and software B sells 333 pieces. Wouldn?t you add two pick-up items, 666 and 333? Doesn?t this count data from other platforms?</ul>
 <br>
 
-<h4><pre>会员</pre></h4>
-<ul>可添加：姓氏、名字、性别、身份证号码、年龄、电话、Email、家庭住址、备注等，可隐藏不常用的项</ul>
+<h4><pre>Member</pre></h4>
+<ul>You can add: surname, first name, gender, ID number, age, phone number, email, home address, notes, etc. Unused items can be hidden</ul>
 <br>
 
 <h4><pre>Staff</pre></h4>
