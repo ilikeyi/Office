@@ -93,14 +93,16 @@
 <ul>1. Right-click the file, select Properties, and unlock the file.</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Picture1](https://github.com/ilikeyi/Office/assets/73377514/124d0e33-eaf4-4bc4-bebb-b14db6358ec8)
+&nbsp;&nbsp;&nbsp;&nbsp;![Picture1](https://github.com/ilikeyi/Office/assets/73377514/19a188ac-12b6-4fe4-a025-53105fe298a9)
+
 </ul>
 <br>
 
 <ul>2. Enable editing</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Edit](https://github.com/ilikeyi/Office/assets/73377514/9e26850d-e988-4542-b59e-eaa3b743cc48)
+&nbsp;&nbsp;&nbsp;&nbsp;![Picture2](https://github.com/ilikeyi/Office/assets/73377514/60ca37e4-7b77-42ac-be60-5b2ded68ffa6)
+
 
 </ul>
 <br>
@@ -108,7 +110,8 @@
 <ul>3. Enable content</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Content](https://github.com/ilikeyi/Office/assets/73377514/41618db7-1767-415f-b55b-6947fe40f366)
+&nbsp;&nbsp;&nbsp;&nbsp;![Picture3](https://github.com/ilikeyi/Office/assets/73377514/446b194d-414c-422a-aff8-44f7d4dac474)
+
 
 </ul>
 <br>
@@ -116,7 +119,8 @@
 <ul>4. Enable VBA macro functions</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Picture4](https://github.com/ilikeyi/Office/assets/73377514/1a73f248-800a-445f-b836-b8cadda15d67)
+&nbsp;&nbsp;&nbsp;&nbsp;![Picture4](https://github.com/ilikeyi/Office/assets/73377514/2ebb2621-bb8a-4459-a962-6f73914be5be)
+
 </ul>
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
