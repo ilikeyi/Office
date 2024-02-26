@@ -68,7 +68,7 @@
 <br>
 
 <h4><pre>Select table</pre></h4>
-<ul>Automatically add "hotkeys, clear hotkeys", reset: errors, instant verification, etc.</ul>
+<ul>Reset: errors, instant verification, etc.</ul>
 <br>
 
 <h4><pre>Filling</pre></h4>
@@ -77,12 +77,6 @@
 
 <h4><pre>Safety</pre></h4>
 <ul>After adding "product pickup" and "new member", formulas and data verification will be automatically inserted and the function will be initialized.</ul>
-<br>
-
-<h4><pre>Shortcut key</pre></h4>
-<ul>Ctrl+Shift + M: After obtaining the current date and time, insert or update to the "time" row (valid for warehouse pickup, member details, and history records)</ul>
-<ul>Ctrl+Shift + A: History - New, automatically filled in (only valid in member details)</ul>
-<ul>Ctrl+Shift + Q: History - new, automatically filled in and withdrawn (only valid in member details)</ul>
 <br>
 
 <h4><pre>Terms and Conditions</pre></h4>
@@ -189,7 +183,7 @@
 <br>
 
 <h4><pre>选择表</pre></h4>
-<ul>自动添加“热键、清除热键”，重置：错误、即时校验等</ul>
+<ul>重置：错误、即时校验等</ul>
 <br>
 
 <h4><pre>填充</pre></h4>
@@ -198,12 +192,6 @@
 
 <h4><pre>安全</pre></h4>
 <ul>新增“商品入库取货”、“新增会员”后，自动插入公式和数据校验，初始化功能。</ul>
-<br>
-
-<h4><pre>快捷键</pre></h4>
-<ul>Ctrl+Shift + M：获得当前日期和时间后，插入或更新到“时间”行（入库取货、会员详细信息、历史记录有效）</ul>
-<ul>Ctrl+Shift + A：历史记录 - 新增，自动填存入（仅在会员详细信息有效）</ul>
-<ul>Ctrl+Shift + Q：历史记录 - 新增，自动填支取（仅在会员详细信息有效）</ul>
 <br>
 
 <h4><pre>使用须知</pre></h4>
