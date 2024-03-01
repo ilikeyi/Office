@@ -123,7 +123,8 @@
 <ul>4. Enable VBA macro functions</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Picture4](https://github.com/ilikeyi/Office/assets/73377514/2ebb2621-bb8a-4459-a962-6f73914be5be)
+&nbsp;&nbsp;&nbsp;&nbsp;![Enabled VBA en-us](https://github.com/ilikeyi/Office/assets/73377514/a84c455e-64a8-4ea2-9c9f-69cf160fd1d5)
+
 
 </ul>
 
@@ -245,7 +246,8 @@
 <ul>4. 启用 VBA 宏功能</ul>
 <ul>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Picture4](https://github.com/ilikeyi/Office/assets/73377514/1a73f248-800a-445f-b836-b8cadda15d67)
+&nbsp;&nbsp;&nbsp;&nbsp;![Enabled VBA zh-cn](https://github.com/ilikeyi/Office/assets/73377514/5978b092-8baa-40ee-a3a6-3d39f2de790b)
+
 </ul>
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
