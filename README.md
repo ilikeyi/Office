@@ -79,6 +79,16 @@
 <ul>After adding "product pickup" and "new member", formulas and data verification will be automatically inserted and the function will be initialized.</ul>
 <br>
 
+<h4><pre>Shortcut key</pre></h4>
+<ul>Ctrl+Shift + M: After obtaining the current date and time, insert or update to the "time" row (valid for warehouse pickup, member details, and history records)</ul>
+<ul>Ctrl+Shift + A: History - New, automatically filled in (only valid in member details)</ul>
+<ul>Ctrl+Shift + Q: History - new, automatically filled in and withdrawn (only valid in member details)</ul>
+<br>
+
+<h4><pre>Backup</pre></h4>
+<ul>Automatically back up to the specified path when opening and closing the worksheet</ul>
+<br>
+
 <h4><pre>Terms and Conditions</pre></h4>
 <ul>All passwords are empty</ul>
 <ul>It is recommended that you regularly download the latest version to stay up to date.</ul>
@@ -192,6 +202,16 @@
 
 <h4><pre>安全</pre></h4>
 <ul>新增“商品入库取货”、“新增会员”后，自动插入公式和数据校验，初始化功能。</ul>
+<br>
+
+<h4><pre>快捷键</pre></h4>
+<ul>Ctrl+Shift + M：获得当前日期和时间后，插入或更新到“时间”行（入库取货、会员详细信息、历史记录有效）</ul>
+<ul>Ctrl+Shift + A：历史记录 - 新增，自动填存入（仅在会员详细信息有效）</ul>
+<ul>Ctrl+Shift + Q：历史记录 - 新增，自动填支取（仅在会员详细信息有效）</ul>
+<br>
+
+<h4><pre>备份</pre></h4>
+<ul>打开和关闭工作表时，自动备份到指定的路径</ul>
 <br>
 
 <h4><pre>使用须知</pre></h4>
