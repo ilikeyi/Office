@@ -80,6 +80,7 @@
 <br>
 
 <h4><pre>Shortcut key</pre></h4>
+<ul>Ctrl+Shift + D: Delete the currently selected row (valid for warehouse pickup, member details, and history records)</ul>
 <ul>Ctrl+Shift + M: After obtaining the current date and time, insert or update to the "time" row (valid for warehouse pickup, member details, and history records)</ul>
 <ul>Ctrl+Shift + A: History - New, automatically filled in (only valid in member details)</ul>
 <ul>Ctrl+Shift + Q: History - new, automatically filled in and withdrawn (only valid in member details)</ul>
@@ -206,6 +207,7 @@
 <br>
 
 <h4><pre>快捷键</pre></h4>
+<ul>Ctrl+Shift + D：删除当前选择的行（入库取货、会员详细信息、历史记录有效）</ul>
 <ul>Ctrl+Shift + M：获得当前日期和时间后，插入或更新到“时间”行（入库取货、会员详细信息、历史记录有效）</ul>
 <ul>Ctrl+Shift + A：历史记录 - 新增，自动填存入（仅在会员详细信息有效）</ul>
 <ul>Ctrl+Shift + Q：历史记录 - 新增，自动填支取（仅在会员详细信息有效）</ul>
