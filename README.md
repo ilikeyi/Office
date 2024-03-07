@@ -9,7 +9,7 @@
 <h4><pre>可选模板</pre></h4>
 <ul>
   
-  [Excel| 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能](https://github.com/ilikeyi/Office/tree/main/Storage)
+  [Excel| 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能]([https://github.com/ilikeyi/Office/tree/main/Storage](https://github.com/ilikeyi/Office/blob/main/Storage/README.zh-CN.md))
 </ul>
 <br>
 
