@@ -110,18 +110,17 @@ Excel | Product storage and pickup | Member management | Deposit | Withdraw | Ad
 
 <ul>2. Enable editing</ul>
 <ul>
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;![Picture2](https://github.com/ilikeyi/Office/assets/73377514/60ca37e4-7b77-42ac-be60-5b2ded68ffa6)
 
-
 </ul>
+
 <br>
 
 <ul>3. Enable content</ul>
 <ul>
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Picture3](https://github.com/ilikeyi/Office/assets/73377514/446b194d-414c-422a-aff8-44f7d4dac474)
-
 
 </ul>
 <br>
