@@ -2,14 +2,14 @@
 <h4><pre>Optional template</pre></h4>
 <ul>
   
-  [Excel | Product storage and pickup | Member management | Deposit | Withdraw | Add historical records | Real-time statistics and other functions](https://github.com/ilikeyi/Office/tree/main/Storage)
+  [Excel | Warehousing and pick-up of goods | Membership Management | Added history deposit or withdrawal | Real-time statistics and other features](https://github.com/ilikeyi/Office/tree/main/Storage)
 </ul>
 <br>
 
 <h4><pre>可选模板</pre></h4>
 <ul>
   
-  [Excel| 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能](https://github.com/ilikeyi/Office/blob/main/Storage/README.zh-CN.md)
+  [Excel | 商品入库、取货 | 会员管理 | 新增历史记录存入或支取 | 即时统计等功能](https://github.com/ilikeyi/Office/blob/main/Storage/README.zh-CN.md)
 </ul>
 <br>
 
