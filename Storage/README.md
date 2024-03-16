@@ -6,7 +6,7 @@ Available languages
 
 <br>
 
-Excel | Product storage and pickup | Member management | Deposit | Withdraw | Add historical records | Real-time statistics and other functions</summary>
+Excel | Warehousing and pick-up of goods | Membership Management | Added history deposit or withdrawal | Real-time statistics and other features
 
 <h4><pre>First use and functional demonstration</pre></h4>
 
