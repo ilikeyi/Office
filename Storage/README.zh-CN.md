@@ -6,7 +6,7 @@ Available languages
 
 <br>
 
-Excel | 商品入库、取货 | 会员管理 | 存入 | 支取 | 新增历史记录 | 即时统计等功能</summary>
+Excel | 商品入库、取货 | 会员管理 | 新增历史记录存入或支取 | 即时统计等功能</summary>
 
 <h4><pre>首次使用和功能演示</pre></h4>
 
