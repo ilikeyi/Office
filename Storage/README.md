@@ -35,6 +35,7 @@ Excel | Warehousing and pick-up of goods | Membership Management | Added history
 
 <h4><pre>Member</pre></h4>
 <ul>You can add: surname, first name, gender, ID number, age, phone number, email, home address, notes, etc. Unused items can be hidden</ul>
+<ul>Supports 10 custom names. When adding and managing member information, you can change the custom name to a different identifier to meet different needs</ul>
 <br>
 
 <h4><pre>Staff</pre></h4>
